@@ -15,4 +15,8 @@ public class Luas {
     public static void lingkaran(int jari) {
         System.out.println("Luas Lingkaran = " + 3.14 * jari * jari);
     }
+
+    public static void Jajargenjang(int inputluas, int inputtinggi) {
+        System.out.println("Luas Jajargenjang = " + inputluas * inputtinggi);
+    }
 }
